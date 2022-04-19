@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simdangelo
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning from Jose Portilla ML course on Udemy
+- 🌱 I’m currently learning Computer Vision
 
 
 <!---
